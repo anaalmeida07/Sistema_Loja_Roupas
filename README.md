@@ -10,3 +10,5 @@ Ao configurar a instalação de ambos, faça a abertura do arquivo no VsCode e s
 Digite no navegador **localhost** para abrir o Banco de Dados **PhpMyAdmin*
 Na pasta lojaRoupas, clique no arquivo **index.html**
 
+Link GitHub
+**https://github.com/anaalmeida07/Sistema_Loja_Roupas**
